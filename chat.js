@@ -5,7 +5,7 @@ var aaa=document.querySelector("input");
 aaa.addEventListener("click",function(){
     alert(aaa.textContent);
 });
-/*(function() {
+(function() {
 
 	$('#live-chat header').on('click', function() {
 
@@ -21,7 +21,7 @@ aaa.addEventListener("click",function(){
 
 	});
 
-}) ();*/
+}) ();
 
 
  
